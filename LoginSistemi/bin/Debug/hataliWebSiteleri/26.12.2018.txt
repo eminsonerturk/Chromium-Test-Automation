@@ -1,0 +1,157 @@
+[ 26.12.2018 10:14:29 ]  34istynawebsrv2.arkas.com:36074 sunucusuna ait Server'a ulasilamadi hata kodu: 104 Deneme sayisi: 3 Hata:OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"kullaniciAdiTextBox"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.16299 x86_64)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementById(String id)
+   at OpenQA.Selenium.By.<>c__DisplayClass16_0.<Id>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at LoginSistemi.Fonksiyonlar.KullaniciGirisiYap(IWebDriver driver, String KullaniciAdi, String Sifre, WebSitesi ilgiliWebSitesi, String[] epostaMesaji) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 241
+[ 26.12.2018 10:19:12 ]  Program internet baglantisini kontrol ederken hata mesaji vermistir.. Hata:System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 13.107.21.200:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at LoginSistemi.Fonksiyonlar.InternetBaglantisiVarMi() in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 488
+[ 26.12.2018 10:19:12 ]  34istynawebsrv2.arkas.com:36074 sitesine girerken internet baglantısı bulunamadi hata kodu: 105 Hata:OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"kullaniciAdiTextBox"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.16299 x86_64)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementById(String id)
+   at OpenQA.Selenium.By.<>c__DisplayClass16_0.<Id>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at LoginSistemi.Fonksiyonlar.KullaniciGirisiYap(IWebDriver driver, String KullaniciAdi, String Sifre, WebSitesi ilgiliWebSitesi, String[] epostaMesaji) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 241
+[ 26.12.2018 10:27:20 ]  Parametre ile web siteleri denenirken bir problem oluştu: OpenQA.Selenium.WebDriverException: A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:61803/session/ddcba95d0788b5bc69bde8f19432905f/url. The status of the exception was ReceiveFailure, and the message was: The underlying connection was closed: An unexpected error occurred on a receive. ---> System.Net.WebException: The underlying connection was closed: An unexpected error occurred on a receive. ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Net.PooledStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Net.Connection.SyncRead(HttpWebRequest request, Boolean userRetrievedStream, Boolean probeRead)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)
+   at LoginSistemi.Fonksiyonlar.KullaniciGirisiYap(IWebDriver driver, String KullaniciAdi, String Sifre, WebSitesi ilgiliWebSitesi, String[] epostaMesaji) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 325
+   at LoginSistemi.Fonksiyonlar.KullaniciGirisiYap(IWebDriver driver, String KullaniciAdi, String Sifre, WebSitesi ilgiliWebSitesi, String[] epostaMesaji) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 327
+   at LoginSistemi.Fonksiyonlar.LoginIslemiYap(String SiteAdi) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 565
+   at LoginSistemi.Fonksiyonlar.argumanIleTestEt(String parametreAdi) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 78
+[ 26.12.2018 10:35:34 ]  Parametre ile web siteleri denenirken bir problem oluştu: System.InvalidOperationException: session not created exception
+from chrome not reachable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.16299 x86_64) (SessionNotCreated)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.StartSession(ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Remote.RemoteWebDriver..ctor(ICommandExecutor commandExecutor, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(ChromeDriverService service, ChromeOptions options, TimeSpan commandTimeout)
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(ChromeOptions options)
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor()
+   at LoginSistemi.ChromeDriverSingleton.yeniKopyaYarat() in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\ChromeDriverSingleton.cs:line 82
+   at LoginSistemi.Fonksiyonlar.LoginIslemiYap(String SiteAdi) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 520
+   at LoginSistemi.Fonksiyonlar.argumanIleTestEt(String parametreAdi) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 78
+[ 26.12.2018 10:40:59 ]  34istynawebsrv2.arkas.com:36074 sunucusuna ait Server'a ulasilamadi hata kodu: 104 Deneme sayisi: 3 Hata:OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"kullaniciAdiTextBox"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.16299 x86_64)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementById(String id)
+   at OpenQA.Selenium.By.<>c__DisplayClass16_0.<Id>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at LoginSistemi.Fonksiyonlar.KullaniciGirisiYap(IWebDriver driver, String KullaniciAdi, String Sifre, WebSitesi ilgiliWebSitesi, String[] epostaMesaji) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 241
+[ 26.12.2018 10:44:03 ]  34istynawebsrv2.arkas.com:36074 sunucusuna ait Server'a ulasilamadi hata kodu: 104 Deneme sayisi: 3 Hata:OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"kullaniciAdiTextBox"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.16299 x86_64)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementById(String id)
+   at OpenQA.Selenium.By.<>c__DisplayClass16_0.<Id>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at LoginSistemi.Fonksiyonlar.KullaniciGirisiYap(IWebDriver driver, String KullaniciAdi, String Sifre, WebSitesi ilgiliWebSitesi, String[] epostaMesaji) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 241
+[ 26.12.2018 11:55:26 ]  http://34istynawebsrv2.arkas.com:36040/EntegrasyonService.svc url degerine sahip site su hata mesajını vermiştir: System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 172.31.0.12:36040
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at LoginSistemi.Fonksiyonlar.UrlStatusCodeAl(String url) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 179
+[ 26.12.2018 11:56:27 ]  http://34istynawebsrv2.arkas.com:36042/IntegrationWebService.asmx url degerine sahip site su hata mesajını vermiştir: System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 172.31.0.12:36042
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at LoginSistemi.Fonksiyonlar.UrlStatusCodeAl(String url) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 179
+[ 26.12.2018 12:01:36 ]  http://34istynawebsrv2.arkas.com:36040/EntegrasyonService.svc url degerine sahip site su hata mesajını vermiştir: System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 172.31.0.12:36040
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at LoginSistemi.Fonksiyonlar.UrlStatusCodeAl(String url) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 179
+[ 26.12.2018 12:05:27 ]  http://34istynawebsrv2.arkas.com:36040/EntegrasyonService.svc url degerine sahip site su hata mesajını vermiştir: System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 172.31.0.12:36040
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at LoginSistemi.Fonksiyonlar.UrlStatusCodeAl(String url) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 179
+[ 26.12.2018 14:14:55 ]  http://34istynawebsrv2.arkas.com:36040/EntegrasyonService.svc url degerine sahip site su hata mesajını vermiştir: System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 172.31.0.12:36040
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at LoginSistemi.Fonksiyonlar.UrlStatusCodeAl(String url) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 179
+[ 26.12.2018 14:34:25 ]  http://34istynawebsrv2.arkas.com:36040/EntegrasyonService.svc url degerine sahip site su hata mesajını vermiştir: System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 172.31.0.12:36040
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at LoginSistemi.Fonksiyonlar.UrlStatusCodeAl(String url) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 179
+[ 26.12.2018 14:34:25 ]  http://34istynawebsrv2.arkas.com:36040/EntegrasyonService.svc web servisi hata mesaji vermistir ve hata: NotFound hata kodu: 110
+[ 26.12.2018 14:34:45 ]  http://34istynawebsrv2.arkas.com:36042/IntegrationWebService.asmx url degerine sahip site su hata mesajını vermiştir: System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 172.31.0.12:36042
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at LoginSistemi.Fonksiyonlar.UrlStatusCodeAl(String url) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 179
+[ 26.12.2018 14:34:45 ]  http://34istynawebsrv2.arkas.com:36042/IntegrationWebService.asmx web servisi hata mesaji vermistir ve hata: NotFound hata kodu: 110
+[ 26.12.2018 14:35:05 ]  http://34istynawebsrv3.arkas.com:36040/EntegrasyonService.svc url degerine sahip site su hata mesajını vermiştir: System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 172.31.0.13:36040
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at LoginSistemi.Fonksiyonlar.UrlStatusCodeAl(String url) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 179
+[ 26.12.2018 14:35:05 ]  http://34istynawebsrv3.arkas.com:36040/EntegrasyonService.svc web servisi hata mesaji vermistir ve hata: NotFound hata kodu: 110
+[ 26.12.2018 14:35:24 ]  http://34istynawebsrv3.arkas.com:36042/IntegrationWebService.asmx url degerine sahip site su hata mesajını vermiştir: System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 172.31.0.13:36042
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at LoginSistemi.Fonksiyonlar.UrlStatusCodeAl(String url) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 179
+[ 26.12.2018 14:35:25 ]  http://34istynawebsrv3.arkas.com:36042/IntegrationWebService.asmx web servisi hata mesaji vermistir ve hata: NotFound hata kodu: 110
+[ 26.12.2018 14:35:50 ]  http://34istynawebsrv1.arkas.com:36040/EntegrasyonService.svc url degerine sahip site su hata mesajını vermiştir: System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 172.31.0.11:36040
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at LoginSistemi.Fonksiyonlar.UrlStatusCodeAl(String url) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 179
+[ 26.12.2018 14:35:50 ]  http://34istynawebsrv1.arkas.com:36040/EntegrasyonService.svc web servisi hata mesaji vermistir ve hata: NotFound hata kodu: 110
+[ 26.12.2018 14:36:54 ]  http://34istynawebsrv2.arkas.com:36040/EntegrasyonService.svc url degerine sahip site su hata mesajını vermiştir: System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 172.31.0.12:36040
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at LoginSistemi.Fonksiyonlar.UrlStatusCodeAl(String url) in C:\Soner.Turk\2018\YazDonemi\Operasyonel Ekip\Soner.TURK\1\LoginSistemi\LoginSistemi\Fonksiyonlar.cs:line 179
+[ 26.12.2018 14:36:54 ]  http://34istynawebsrv2.arkas.com:36040/EntegrasyonService.svc web servisi hata mesaji vermistir ve hata: NotFound hata kodu: 110

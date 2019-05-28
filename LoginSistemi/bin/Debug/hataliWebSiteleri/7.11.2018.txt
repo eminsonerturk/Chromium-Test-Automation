@@ -1,0 +1,146 @@
+[ 7.11.2018 09:23:46 ]  yna911.bimar.com sunucusuna ait Server'a ulasilamadi hata kodu: 104
+[ 7.11.2018 09:23:47 ]  http://34istynawebsrv3:35092/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:23:49 ]  http://34istynawebsrv3:35091/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:24:01 ]  yna-algeria.bimar.com sunucusuna ait server hata mesaji vermistir.. hata kodu: 101
+[ 7.11.2018 09:24:03 ]  http://34istynawebsrv3:35011/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:24:05 ]  http://34istynawebsrv3:35012/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:24:07 ]  http://34istynawebsrv3:35010/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:24:51 ]  http://34istynawebsrv3:35092/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:24:58 ]  http://34istynawebsrv3:35091/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:25:40 ]  http://34istynawebsrv3:35092/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:25:41 ]  http://34istynawebsrv3:35091/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:25:51 ]  yna-algeria.bimar.com sunucusuna ait Server'a ulasilamadi hata kodu: 104
+[ 7.11.2018 09:25:53 ]  http://34istynawebsrv3:35011/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:25:54 ]  http://34istynawebsrv3:35012/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:25:56 ]  http://34istynawebsrv3:35010/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:26:20 ]  http://34istynawebsrv3:35021/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:26:21 ]  http://34istynawebsrv3:35022/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:26:23 ]  http://34istynawebsrv3:35020/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:26:38 ]  yna-italy.bimar.com sunucusuna ait server hata mesaji vermistir.. hata kodu: 101
+[ 7.11.2018 09:26:40 ]  http://34istynawebsrv3:35031/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:26:42 ]  http://34istynawebsrv3:35032/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:26:44 ]  http://34istynawebsrv3:35030/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:27:06 ]  http://34istynawebsrv3:35041/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:27:08 ]  http://34istynawebsrv3:35042/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:27:10 ]  http://34istynawebsrv3:35040/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:27:25 ]  yna-portugal.bimar.com sunucusuna ait server hata mesaji vermistir.. hata kodu: 101
+[ 7.11.2018 09:27:27 ]  http://34istynawebsrv3:35057/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:27:29 ]  http://34istynawebsrv3:35056/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:27:31 ]  http://34istynawebsrv3:35055/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:27:50 ]  http://34istynawebsrv3:35051/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:27:51 ]  http://34istynawebsrv3:35052/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:27:53 ]  http://34istynawebsrv3:35050/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:28:11 ]  http://34istynawebsrv3:35061/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:28:13 ]  http://34istynawebsrv3:35062/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:28:15 ]  http://34istynawebsrv3:35060/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:28:39 ]  http://34istynawebsrv3:35075/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:28:40 ]  http://34istynawebsrv3:35076/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:28:42 ]  http://34istynawebsrv3:35074/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:29:01 ]  http://34istynawebsrv3:37072/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:29:03 ]  http://34istynawebsrv3:37071/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:29:05 ]  http://34istynawebsrv3:37070/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:29:26 ]  http://serviceloopeds.bimar.com/EDSElTerminaliWcfService.svc web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:29:45 ]  http://34istynawebsrv1:8012/EDSElTerminaliWcfService.svc web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:30:05 ]  http://34istynawebsrv2:8012/EDSElTerminaliWcfService.svc web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:30:23 ]  http://34istynawebsrv3:8012/EDSElTerminaliWcfService.svc web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:35:00 ]  srv3arles.bimar.com sunucusuna ait Server'a ulasilamadi hata kodu: 104
+[ 7.11.2018 09:35:01 ]  http://34istynawebsrv3.arkas.com:36040/EntegrasyonService.svc web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:35:02 ]  http://34istynawebsrv3.arkas.com:36042/IntegrationWebService.asmx web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:38:24 ]  yna911.bimar.com sunucusuna ait Server'a ulasilamadi hata kodu: 104
+[ 7.11.2018 09:38:25 ]  http://34istynawebsrv3:35092/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:38:27 ]  http://34istynawebsrv3:35091/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:38:38 ]  yna-algeria.bimar.com sunucusuna ait server hata mesaji vermistir.. hata kodu: 101
+[ 7.11.2018 09:38:40 ]  http://34istynawebsrv3:35011/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:38:41 ]  http://34istynawebsrv3:35012/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:38:43 ]  http://34istynawebsrv3:35010/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:41:31 ]  http://34istynawebsrv3:35092/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:41:32 ]  http://34istynawebsrv3:35091/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:41:42 ]  yna-algeria.bimar.com sunucusuna ait Server'a ulasilamadi hata kodu: 104
+[ 7.11.2018 09:41:44 ]  http://34istynawebsrv3:35011/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:41:46 ]  http://34istynawebsrv3:35012/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:41:47 ]  http://34istynawebsrv3:35010/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:42:16 ]  http://34istynawebsrv3:35021/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:42:18 ]  http://34istynawebsrv3:35022/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:42:20 ]  http://34istynawebsrv3:35020/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:42:43 ]  http://34istynawebsrv3:35031/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:42:45 ]  http://34istynawebsrv3:35032/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:42:47 ]  http://34istynawebsrv3:35030/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:43:12 ]  http://34istynawebsrv3:35041/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:43:13 ]  http://34istynawebsrv3:35042/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:43:15 ]  http://34istynawebsrv3:35040/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:43:33 ]  http://34istynawebsrv3:35057/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:43:34 ]  http://34istynawebsrv3:35056/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:43:36 ]  http://34istynawebsrv3:35055/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:43:54 ]  http://34istynawebsrv3:35051/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:43:56 ]  http://34istynawebsrv3:35052/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:43:58 ]  http://34istynawebsrv3:35050/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:44:15 ]  http://34istynawebsrv3:35061/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:44:16 ]  http://34istynawebsrv3:35062/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:44:18 ]  http://34istynawebsrv3:35060/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:44:40 ]  http://34istynawebsrv3:35075/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:44:41 ]  http://34istynawebsrv3:35076/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:44:43 ]  http://34istynawebsrv3:35074/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:45:01 ]  http://34istynawebsrv3:37072/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:45:03 ]  http://34istynawebsrv3:37071/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:45:10 ]  http://34istynawebsrv3:37070/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:45:29 ]  http://serviceloopeds.bimar.com/EDSElTerminaliWcfService.svc web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:45:48 ]  http://34istynawebsrv1:8012/EDSElTerminaliWcfService.svc web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:46:08 ]  http://34istynawebsrv2:8012/EDSElTerminaliWcfService.svc web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:46:29 ]  http://34istynawebsrv3:8012/EDSElTerminaliWcfService.svc web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:50:16 ]  srv3arles.bimar.com sunucusuna ait Server'a ulasilamadi hata kodu: 104
+[ 7.11.2018 09:50:17 ]  http://34istynawebsrv3.arkas.com:36040/EntegrasyonService.svc web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:50:18 ]  http://34istynawebsrv3.arkas.com:36042/IntegrationWebService.asmx web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:53:29 ]  yna-algeria.bimar.com sunucusuna ait Server'a ulasilamadi hata kodu: 104
+[ 7.11.2018 09:53:31 ]  http://34istynawebsrv3:35011/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:55:18 ]  yna911.bimar.com sunucusuna ait Server'a ulasilamadi hata kodu: 104
+[ 7.11.2018 09:55:19 ]  http://34istynawebsrv3:35092/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:55:20 ]  http://34istynawebsrv3:35091/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:55:32 ]  yna-algeria.bimar.com sunucusuna ait server hata mesaji vermistir.. hata kodu: 101
+[ 7.11.2018 09:55:37 ]  http://34istynawebsrv3:35011/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:58:53 ]  http://34istynawebsrv3:35092/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:58:55 ]  http://34istynawebsrv3:35091/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:59:06 ]  yna-algeria.bimar.com sunucusuna ait server hata mesaji vermistir.. hata kodu: 101
+[ 7.11.2018 09:59:08 ]  http://34istynawebsrv3:35011/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:59:10 ]  http://34istynawebsrv3:35012/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:59:12 ]  http://34istynawebsrv3:35010/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:59:29 ]  http://34istynawebsrv3:35021/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:59:30 ]  http://34istynawebsrv3:35022/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:59:32 ]  http://34istynawebsrv3:35020/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:59:43 ]  yna-italy.bimar.com sunucusuna ait server hata mesaji vermistir.. hata kodu: 101
+[ 7.11.2018 09:59:45 ]  http://34istynawebsrv3:35031/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:59:47 ]  http://34istynawebsrv3:35032/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 09:59:48 ]  http://34istynawebsrv3:35030/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:00:06 ]  http://34istynawebsrv3:35041/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:00:08 ]  http://34istynawebsrv3:35042/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:00:10 ]  http://34istynawebsrv3:35040/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:00:18 ]  yna-portugal.bimar.com sunucusuna ait Server'a ulasilamadi hata kodu: 104
+[ 7.11.2018 10:00:20 ]  http://34istynawebsrv3:35057/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:00:22 ]  http://34istynawebsrv3:35056/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:00:24 ]  http://34istynawebsrv3:35055/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:00:41 ]  http://34istynawebsrv3:35051/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:00:43 ]  http://34istynawebsrv3:35052/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:00:45 ]  http://34istynawebsrv3:35050/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:01:02 ]  http://34istynawebsrv3:35061/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:01:04 ]  http://34istynawebsrv3:35062/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:01:06 ]  http://34istynawebsrv3:35060/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:01:23 ]  http://34istynawebsrv3:35075/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:01:25 ]  http://34istynawebsrv3:35076/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:01:27 ]  http://34istynawebsrv3:35074/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:01:44 ]  http://34istynawebsrv3:37072/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:01:46 ]  http://34istynawebsrv3:37071/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:01:48 ]  http://34istynawebsrv3:37070/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:02:05 ]  http://serviceloopeds.bimar.com/EDSElTerminaliWcfService.svc web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:02:22 ]  http://34istynawebsrv1:8012/EDSElTerminaliWcfService.svc web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:02:43 ]  http://34istynawebsrv2:8012/EDSElTerminaliWcfService.svc web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:03:01 ]  http://34istynawebsrv3:8012/EDSElTerminaliWcfService.svc web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:06:50 ]  srv3arles.bimar.com sunucusuna ait Server'a ulasilamadi hata kodu: 104
+[ 7.11.2018 10:06:51 ]  http://34istynawebsrv3.arkas.com:36040/EntegrasyonService.svc web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:06:52 ]  http://34istynawebsrv3.arkas.com:36042/IntegrationWebService.asmx web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:48:17 ]  http://34istynawebsrv3:35011/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:48:18 ]  http://34istynawebsrv3:35012/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:48:20 ]  http://34istynawebsrv3:35010/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:48:50 ]  yna-algeria.bimar.com sunucusuna ait Server'a ulasilamadi hata kodu: 104
+[ 7.11.2018 10:48:51 ]  http://34istynawebsrv3:35011/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:48:53 ]  http://34istynawebsrv3:35012/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 10:48:55 ]  http://34istynawebsrv3:35010/ web servisi hata mesaji vermistir hata kodu: 110
+[ 7.11.2018 17:03:04 ]  34istynawebsrv3.arkas.com:36074 sunucusuna ait Server'a ulasilamadi hata kodu: 104

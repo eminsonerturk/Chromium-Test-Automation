@@ -1,0 +1,4 @@
+[ 2.11.2018 17:30:04 ]  yna-algeria.bimar.com sunucusuna ait Server'a ulasilamadi hata kodu: 104
+[ 2.11.2018 17:30:28 ]  yna-egypt.bimar.com sunucusuna ait Server'a ulasilamadi hata kodu: 104
+[ 2.11.2018 17:30:54 ]  http://yna-maroc.bimar.com web sitesine giris yapilamamaktadir hata kodu: 109
+[ 2.11.2018 17:45:29 ]  arles.bimar.com sitesine ait server hata mesaji vermistir hata kodu: 107

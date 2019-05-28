@@ -1,0 +1,2 @@
+[ 6.11.2018 17:56:19 ]  http://serviceloopeds.bimar.com/EDSElTerminaliWcfService.svc web servisi hata mesaji vermistir hata kodu: 110
+[ 6.11.2018 18:04:55 ]  http://34istynawebsrv1:8012/EDSElTerminaliWcfService.svc web servisi hata mesaji vermistir hata kodu: 110
